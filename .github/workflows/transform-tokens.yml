@@ -46,3 +46,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # this parameter is optional and defaults to master but I am using main
           BRANCH_NAME: 'main'
+  
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@master
+   
+    - name: Upload file to bucket
+      uses: zdurham/s3-upload-github-action@master
+      with:
+        args: --acl public-read
+      env:
+        FILE: ./build/json/styles.json
+        AWS_REGION: 'us-east-1'
+        S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+        S3_KEY: ${{ secrets.S3_KEY }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
