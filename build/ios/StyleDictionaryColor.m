@@ -3,7 +3,7 @@
 // StyleDictionaryColor.m
 //
 // Do not edit directly
-// Generated on Tue, 02 Feb 2021 22:45:34 GMT
+// Generated on Tue, 02 Feb 2021 23:50:43 GMT
 //
 
 #import "StyleDictionaryColor.h"
@@ -21,31 +21,6 @@
 
   dispatch_once(&onceToken, ^{
     colorArray = @[
-rgba(255, 230, 0, 1),
-rgba(112, 141, 242, 1),
-rgba(4, 74, 255, 1),
-rgba(64, 255, 186, 1),
-rgba(64, 255, 186, 1),
-rgba(0, 0, 0, 0.1),
-rgba(4, 74, 255, 1),
-rgba(64, 223, 80, 1),
-rgba(52, 86, 175, 1),
-rgba(255, 184, 0, 1),
-rgba(255, 184, 0, 1),
-rgba(255, 255, 255, 1),
-rgba(255, 255, 255, 1),
-rgba(207, 48, 48, 1),
-rgba(255, 255, 255, 1),
-rgba(74, 79, 204, 1),
-rgba(255, 255, 255, 1),
-rgba(255, 184, 0, 1),
-rgba(255, 138, 0, 1),
-rgba(255, 46, 0, 1),
-rgba(255, 0, 0, 1),
-rgba(0, 0, 0, 0.25),
-rgba(0, 0, 0, 0.25),
-rgba(0, 0, 0, 1),
-rgba(0, 0, 0, 0.25),
 rgba(2, 119, 255, 1),
 rgba(0, 100, 250, 1),
 rgba(14, 97, 222, 1),
