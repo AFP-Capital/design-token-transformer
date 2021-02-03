@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 03 Feb 2021 00:15:19 GMT
+// Generated on Wed, 03 Feb 2021 18:06:22 GMT
 //
 
 
@@ -12,7 +12,10 @@ import UIKit
 public class StyleDictionary {
     public static let bigHeadlineDeskFontFamily = Rubik
     public static let bigHeadlineDeskFontSize = 64
-    public static let bigHeadlineDeskFontStyle = Bold
+    public static let bigHeadlineDeskFontStretch = normal
+    public static let bigHeadlineDeskFontStyle = normal
+    public static let bigHeadlineDeskFontStyleOld = Bold
+    public static let bigHeadlineDeskFontWeight = 700
     public static let bigHeadlineDeskLetterSpacing = 0
     public static let bigHeadlineDeskLineHeight = 72
     public static let bigHeadlineDeskParagraphIndent = 0
@@ -21,7 +24,10 @@ public class StyleDictionary {
     public static let bigHeadlineDeskTextDecoration = none
     public static let bigHeadlineMobileFontFamily = Rubik
     public static let bigHeadlineMobileFontSize = 40
-    public static let bigHeadlineMobileFontStyle = Bold
+    public static let bigHeadlineMobileFontStretch = normal
+    public static let bigHeadlineMobileFontStyle = normal
+    public static let bigHeadlineMobileFontStyleOld = Bold
+    public static let bigHeadlineMobileFontWeight = 700
     public static let bigHeadlineMobileLetterSpacing = 0
     public static let bigHeadlineMobileLineHeight = 48
     public static let bigHeadlineMobileParagraphIndent = 0
@@ -30,7 +36,10 @@ public class StyleDictionary {
     public static let bigHeadlineMobileTextDecoration = none
     public static let bigHeadlineTabletFontFamily = Rubik
     public static let bigHeadlineTabletFontSize = 48
-    public static let bigHeadlineTabletFontStyle = Bold
+    public static let bigHeadlineTabletFontStretch = normal
+    public static let bigHeadlineTabletFontStyle = normal
+    public static let bigHeadlineTabletFontStyleOld = Bold
+    public static let bigHeadlineTabletFontWeight = 700
     public static let bigHeadlineTabletLetterSpacing = 0
     public static let bigHeadlineTabletLineHeight = 56
     public static let bigHeadlineTabletParagraphIndent = 0
@@ -39,7 +48,10 @@ public class StyleDictionary {
     public static let bigHeadlineTabletTextDecoration = none
     public static let bodyMobileBoldFontFamily = Rubik
     public static let bodyMobileBoldFontSize = 18
-    public static let bodyMobileBoldFontStyle = Bold
+    public static let bodyMobileBoldFontStretch = normal
+    public static let bodyMobileBoldFontStyle = normal
+    public static let bodyMobileBoldFontStyleOld = Bold
+    public static let bodyMobileBoldFontWeight = 700
     public static let bodyMobileBoldLetterSpacing = 0
     public static let bodyMobileBoldLineHeight = 24
     public static let bodyMobileBoldParagraphIndent = 0
@@ -48,7 +60,10 @@ public class StyleDictionary {
     public static let bodyMobileBoldTextDecoration = none
     public static let bodyMobileRegularFontFamily = Rubik
     public static let bodyMobileRegularFontSize = 18
-    public static let bodyMobileRegularFontStyle = Bold
+    public static let bodyMobileRegularFontStretch = normal
+    public static let bodyMobileRegularFontStyle = normal
+    public static let bodyMobileRegularFontStyleOld = Bold
+    public static let bodyMobileRegularFontWeight = 700
     public static let bodyMobileRegularLetterSpacing = 0
     public static let bodyMobileRegularLineHeight = 24
     public static let bodyMobileRegularParagraphIndent = 0
@@ -57,7 +72,10 @@ public class StyleDictionary {
     public static let bodyMobileRegularTextDecoration = none
     public static let bodyTabletBoldFontFamily = Rubik
     public static let bodyTabletBoldFontSize = 20
-    public static let bodyTabletBoldFontStyle = Bold
+    public static let bodyTabletBoldFontStretch = normal
+    public static let bodyTabletBoldFontStyle = normal
+    public static let bodyTabletBoldFontStyleOld = Bold
+    public static let bodyTabletBoldFontWeight = 700
     public static let bodyTabletBoldLetterSpacing = 0
     public static let bodyTabletBoldLineHeight = 28
     public static let bodyTabletBoldParagraphIndent = 0
@@ -66,7 +84,10 @@ public class StyleDictionary {
     public static let bodyTabletBoldTextDecoration = none
     public static let bodyTabletRegularFontFamily = Rubik
     public static let bodyTabletRegularFontSize = 20
-    public static let bodyTabletRegularFontStyle = Bold
+    public static let bodyTabletRegularFontStretch = normal
+    public static let bodyTabletRegularFontStyle = normal
+    public static let bodyTabletRegularFontStyleOld = Bold
+    public static let bodyTabletRegularFontWeight = 700
     public static let bodyTabletRegularLetterSpacing = 0
     public static let bodyTabletRegularLineHeight = 28
     public static let bodyTabletRegularParagraphIndent = 0
@@ -99,7 +120,10 @@ public class StyleDictionary {
     public static let brand08Light = rgba(255, 114, 122, 1)
     public static let buttonBaseMobileFontFamily = Rubik
     public static let buttonBaseMobileFontSize = 20
-    public static let buttonBaseMobileFontStyle = Bold
+    public static let buttonBaseMobileFontStretch = normal
+    public static let buttonBaseMobileFontStyle = normal
+    public static let buttonBaseMobileFontStyleOld = Bold
+    public static let buttonBaseMobileFontWeight = 700
     public static let buttonBaseMobileLetterSpacing = 0
     public static let buttonBaseMobileLineHeight = 24
     public static let buttonBaseMobileParagraphIndent = 0
@@ -108,7 +132,10 @@ public class StyleDictionary {
     public static let buttonBaseMobileTextDecoration = none
     public static let buttonBaseTabletFontFamily = Rubik
     public static let buttonBaseTabletFontSize = 24
-    public static let buttonBaseTabletFontStyle = Bold
+    public static let buttonBaseTabletFontStretch = normal
+    public static let buttonBaseTabletFontStyle = normal
+    public static let buttonBaseTabletFontStyleOld = Bold
+    public static let buttonBaseTabletFontWeight = 700
     public static let buttonBaseTabletLetterSpacing = 0
     public static let buttonBaseTabletLineHeight = 28
     public static let buttonBaseTabletParagraphIndent = 0
@@ -117,7 +144,10 @@ public class StyleDictionary {
     public static let buttonBaseTabletTextDecoration = none
     public static let buttonSmallMobileFontFamily = Rubik
     public static let buttonSmallMobileFontSize = 14
-    public static let buttonSmallMobileFontStyle = Bold
+    public static let buttonSmallMobileFontStretch = normal
+    public static let buttonSmallMobileFontStyle = normal
+    public static let buttonSmallMobileFontStyleOld = Bold
+    public static let buttonSmallMobileFontWeight = 700
     public static let buttonSmallMobileLetterSpacing = 5
     public static let buttonSmallMobileLineHeight = 16
     public static let buttonSmallMobileParagraphIndent = 0
@@ -126,7 +156,10 @@ public class StyleDictionary {
     public static let buttonSmallMobileTextDecoration = none
     public static let buttonSmallTabletFontFamily = Rubik
     public static let buttonSmallTabletFontSize = 16
-    public static let buttonSmallTabletFontStyle = Bold
+    public static let buttonSmallTabletFontStretch = normal
+    public static let buttonSmallTabletFontStyle = normal
+    public static let buttonSmallTabletFontStyleOld = Bold
+    public static let buttonSmallTabletFontWeight = 700
     public static let buttonSmallTabletLetterSpacing = 0
     public static let buttonSmallTabletLineHeight = 18
     public static let buttonSmallTabletParagraphIndent = 0
@@ -135,7 +168,10 @@ public class StyleDictionary {
     public static let buttonSmallTabletTextDecoration = none
     public static let captionMobileMediumFontFamily = Rubik
     public static let captionMobileMediumFontSize = 12
-    public static let captionMobileMediumFontStyle = Bold
+    public static let captionMobileMediumFontStretch = normal
+    public static let captionMobileMediumFontStyle = normal
+    public static let captionMobileMediumFontStyleOld = Medium
+    public static let captionMobileMediumFontWeight = 500
     public static let captionMobileMediumLetterSpacing = 0
     public static let captionMobileMediumLineHeight = 14
     public static let captionMobileMediumParagraphIndent = 0
@@ -144,7 +180,10 @@ public class StyleDictionary {
     public static let captionMobileMediumTextDecoration = none
     public static let captionMobileRegularFontFamily = Rubik
     public static let captionMobileRegularFontSize = 12
-    public static let captionMobileRegularFontStyle = Bold
+    public static let captionMobileRegularFontStretch = normal
+    public static let captionMobileRegularFontStyle = normal
+    public static let captionMobileRegularFontStyleOld = Regular
+    public static let captionMobileRegularFontWeight = 400
     public static let captionMobileRegularLetterSpacing = 0
     public static let captionMobileRegularLineHeight = 14
     public static let captionMobileRegularParagraphIndent = 0
@@ -153,7 +192,10 @@ public class StyleDictionary {
     public static let captionMobileRegularTextDecoration = none
     public static let captionTabletMediumFontFamily = Rubik
     public static let captionTabletMediumFontSize = 14
-    public static let captionTabletMediumFontStyle = Bold
+    public static let captionTabletMediumFontStretch = normal
+    public static let captionTabletMediumFontStyle = normal
+    public static let captionTabletMediumFontStyleOld = Medium
+    public static let captionTabletMediumFontWeight = 500
     public static let captionTabletMediumLetterSpacing = 0
     public static let captionTabletMediumLineHeight = 18
     public static let captionTabletMediumParagraphIndent = 0
@@ -162,7 +204,10 @@ public class StyleDictionary {
     public static let captionTabletMediumTextDecoration = none
     public static let captionTabletRegularFontFamily = Rubik
     public static let captionTabletRegularFontSize = 14
-    public static let captionTabletRegularFontStyle = Bold
+    public static let captionTabletRegularFontStretch = normal
+    public static let captionTabletRegularFontStyle = normal
+    public static let captionTabletRegularFontStyleOld = Regular
+    public static let captionTabletRegularFontWeight = 400
     public static let captionTabletRegularLetterSpacing = 0
     public static let captionTabletRegularLineHeight = 18
     public static let captionTabletRegularParagraphIndent = 0
@@ -171,7 +216,10 @@ public class StyleDictionary {
     public static let captionTabletRegularTextDecoration = none
     public static let displayDeskFontFamily = Rubik
     public static let displayDeskFontSize = 96
-    public static let displayDeskFontStyle = Bold
+    public static let displayDeskFontStretch = normal
+    public static let displayDeskFontStyle = normal
+    public static let displayDeskFontStyleOld = Bold
+    public static let displayDeskFontWeight = 700
     public static let displayDeskLetterSpacing = 0
     public static let displayDeskLineHeight = 128
     public static let displayDeskParagraphIndent = 0
@@ -180,7 +228,10 @@ public class StyleDictionary {
     public static let displayDeskTextDecoration = none
     public static let displayMobileFontFamily = Rubik
     public static let displayMobileFontSize = 48
-    public static let displayMobileFontStyle = Bold
+    public static let displayMobileFontStretch = normal
+    public static let displayMobileFontStyle = normal
+    public static let displayMobileFontStyleOld = Bold
+    public static let displayMobileFontWeight = 700
     public static let displayMobileLetterSpacing = 0
     public static let displayMobileLineHeight = 56
     public static let displayMobileParagraphIndent = 0
@@ -189,7 +240,10 @@ public class StyleDictionary {
     public static let displayMobileTextDecoration = none
     public static let displayTabletFontFamily = Rubik
     public static let displayTabletFontSize = 64
-    public static let displayTabletFontStyle = Bold
+    public static let displayTabletFontStretch = normal
+    public static let displayTabletFontStyle = normal
+    public static let displayTabletFontStyleOld = Bold
+    public static let displayTabletFontWeight = 700
     public static let displayTabletLetterSpacing = 0
     public static let displayTabletLineHeight = 72
     public static let displayTabletParagraphIndent = 0
@@ -210,7 +264,10 @@ public class StyleDictionary {
     public static let feedbackWarningTransparent10 = rgba(255, 204, 2, 0.1)
     public static let footnoteMobileMediumFontFamily = Rubik
     public static let footnoteMobileMediumFontSize = 14
-    public static let footnoteMobileMediumFontStyle = Bold
+    public static let footnoteMobileMediumFontStretch = normal
+    public static let footnoteMobileMediumFontStyle = normal
+    public static let footnoteMobileMediumFontStyleOld = Medium
+    public static let footnoteMobileMediumFontWeight = 500
     public static let footnoteMobileMediumLetterSpacing = 0
     public static let footnoteMobileMediumLineHeight = 18
     public static let footnoteMobileMediumParagraphIndent = 0
@@ -219,7 +276,10 @@ public class StyleDictionary {
     public static let footnoteMobileMediumTextDecoration = none
     public static let footnoteMobileRegularFontFamily = Rubik
     public static let footnoteMobileRegularFontSize = 14
-    public static let footnoteMobileRegularFontStyle = Bold
+    public static let footnoteMobileRegularFontStretch = normal
+    public static let footnoteMobileRegularFontStyle = normal
+    public static let footnoteMobileRegularFontStyleOld = Regular
+    public static let footnoteMobileRegularFontWeight = 400
     public static let footnoteMobileRegularLetterSpacing = 0
     public static let footnoteMobileRegularLineHeight = 18
     public static let footnoteMobileRegularParagraphIndent = 0
@@ -228,7 +288,10 @@ public class StyleDictionary {
     public static let footnoteMobileRegularTextDecoration = none
     public static let footnoteTabletMediumFontFamily = Rubik
     public static let footnoteTabletMediumFontSize = 16
-    public static let footnoteTabletMediumFontStyle = Bold
+    public static let footnoteTabletMediumFontStretch = normal
+    public static let footnoteTabletMediumFontStyle = normal
+    public static let footnoteTabletMediumFontStyleOld = Bold
+    public static let footnoteTabletMediumFontWeight = 700
     public static let footnoteTabletMediumLetterSpacing = 0
     public static let footnoteTabletMediumLineHeight = 20
     public static let footnoteTabletMediumParagraphIndent = 0
@@ -237,7 +300,10 @@ public class StyleDictionary {
     public static let footnoteTabletMediumTextDecoration = none
     public static let footnoteTabletRegularFontFamily = Rubik
     public static let footnoteTabletRegularFontSize = 16
-    public static let footnoteTabletRegularFontStyle = Bold
+    public static let footnoteTabletRegularFontStretch = normal
+    public static let footnoteTabletRegularFontStyle = normal
+    public static let footnoteTabletRegularFontStyleOld = Bold
+    public static let footnoteTabletRegularFontWeight = 700
     public static let footnoteTabletRegularLetterSpacing = 0
     public static let footnoteTabletRegularLineHeight = 20
     public static let footnoteTabletRegularParagraphIndent = 0
@@ -246,7 +312,10 @@ public class StyleDictionary {
     public static let footnoteTabletRegularTextDecoration = none
     public static let headlineDeskFontFamily = Rubik
     public static let headlineDeskFontSize = 48
-    public static let headlineDeskFontStyle = Bold
+    public static let headlineDeskFontStretch = normal
+    public static let headlineDeskFontStyle = normal
+    public static let headlineDeskFontStyleOld = Bold
+    public static let headlineDeskFontWeight = 700
     public static let headlineDeskLetterSpacing = 0
     public static let headlineDeskLineHeight = 56
     public static let headlineDeskParagraphIndent = 0
@@ -255,7 +324,10 @@ public class StyleDictionary {
     public static let headlineDeskTextDecoration = none
     public static let headlineMobileFontFamily = Rubik
     public static let headlineMobileFontSize = 32
-    public static let headlineMobileFontStyle = Bold
+    public static let headlineMobileFontStretch = normal
+    public static let headlineMobileFontStyle = normal
+    public static let headlineMobileFontStyleOld = Bold
+    public static let headlineMobileFontWeight = 700
     public static let headlineMobileLetterSpacing = 0
     public static let headlineMobileLineHeight = 40
     public static let headlineMobileParagraphIndent = 0
@@ -264,7 +336,10 @@ public class StyleDictionary {
     public static let headlineMobileTextDecoration = none
     public static let headlineTabletFontFamily = Rubik
     public static let headlineTabletFontSize = 40
-    public static let headlineTabletFontStyle = Bold
+    public static let headlineTabletFontStretch = normal
+    public static let headlineTabletFontStyle = normal
+    public static let headlineTabletFontStyleOld = Bold
+    public static let headlineTabletFontWeight = 700
     public static let headlineTabletLetterSpacing = 0
     public static let headlineTabletLineHeight = 48
     public static let headlineTabletParagraphIndent = 0
@@ -289,7 +364,10 @@ public class StyleDictionary {
     public static let secondary03 = rgba(169, 207, 255, 1)
     public static let subtitleDeskFontFamily = Rubik
     public static let subtitleDeskFontSize = 28
-    public static let subtitleDeskFontStyle = Bold
+    public static let subtitleDeskFontStretch = normal
+    public static let subtitleDeskFontStyle = normal
+    public static let subtitleDeskFontStyleOld = Bold
+    public static let subtitleDeskFontWeight = 700
     public static let subtitleDeskLetterSpacing = 0
     public static let subtitleDeskLineHeight = 32
     public static let subtitleDeskParagraphIndent = 0
@@ -298,7 +376,10 @@ public class StyleDictionary {
     public static let subtitleDeskTextDecoration = none
     public static let subtitleMobileFontFamily = Rubik
     public static let subtitleMobileFontSize = 20
-    public static let subtitleMobileFontStyle = Bold
+    public static let subtitleMobileFontStretch = normal
+    public static let subtitleMobileFontStyle = normal
+    public static let subtitleMobileFontStyleOld = Bold
+    public static let subtitleMobileFontWeight = 700
     public static let subtitleMobileLetterSpacing = 0
     public static let subtitleMobileLineHeight = 24
     public static let subtitleMobileParagraphIndent = 0
@@ -307,7 +388,10 @@ public class StyleDictionary {
     public static let subtitleMobileTextDecoration = none
     public static let subtitleTabletFontFamily = Rubik
     public static let subtitleTabletFontSize = 24
-    public static let subtitleTabletFontStyle = Bold
+    public static let subtitleTabletFontStretch = normal
+    public static let subtitleTabletFontStyle = normal
+    public static let subtitleTabletFontStyleOld = Bold
+    public static let subtitleTabletFontWeight = 700
     public static let subtitleTabletLetterSpacing = 0
     public static let subtitleTabletLineHeight = 28
     public static let subtitleTabletParagraphIndent = 0
@@ -316,7 +400,10 @@ public class StyleDictionary {
     public static let subtitleTabletTextDecoration = none
     public static let titleDeskFontFamily = Rubik
     public static let titleDeskFontSize = 32
-    public static let titleDeskFontStyle = Bold
+    public static let titleDeskFontStretch = normal
+    public static let titleDeskFontStyle = normal
+    public static let titleDeskFontStyleOld = Bold
+    public static let titleDeskFontWeight = 700
     public static let titleDeskLetterSpacing = 0
     public static let titleDeskLineHeight = 40
     public static let titleDeskParagraphIndent = 0
@@ -325,7 +412,10 @@ public class StyleDictionary {
     public static let titleDeskTextDecoration = none
     public static let titleMobileFontFamily = Rubik
     public static let titleMobileFontSize = 24
-    public static let titleMobileFontStyle = Bold
+    public static let titleMobileFontStretch = normal
+    public static let titleMobileFontStyle = normal
+    public static let titleMobileFontStyleOld = Bold
+    public static let titleMobileFontWeight = 700
     public static let titleMobileLetterSpacing = 0
     public static let titleMobileLineHeight = 28
     public static let titleMobileParagraphIndent = 0
@@ -334,7 +424,10 @@ public class StyleDictionary {
     public static let titleMobileTextDecoration = none
     public static let titleTabletFontFamily = Rubik
     public static let titleTabletFontSize = 28
-    public static let titleTabletFontStyle = Bold
+    public static let titleTabletFontStretch = normal
+    public static let titleTabletFontStyle = normal
+    public static let titleTabletFontStyleOld = Bold
+    public static let titleTabletFontWeight = 700
     public static let titleTabletLetterSpacing = 0
     public static let titleTabletLineHeight = 32
     public static let titleTabletParagraphIndent = 0

@@ -566,7 +566,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -610,7 +622,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -656,7 +680,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -700,7 +736,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -748,8 +796,20 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 400,
+          "type": "number"
+        },
         "fontStyle": {
-          "value": "Bold",
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
           "type": "string"
         },
         "letterSpacing": {
@@ -792,8 +852,20 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 500,
+          "type": "number"
+        },
         "fontStyle": {
-          "value": "Bold",
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Medium",
           "type": "string"
         },
         "letterSpacing": {
@@ -838,8 +910,20 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 400,
+          "type": "number"
+        },
         "fontStyle": {
-          "value": "Bold",
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
           "type": "string"
         },
         "letterSpacing": {
@@ -882,8 +966,20 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 500,
+          "type": "number"
+        },
         "fontStyle": {
-          "value": "Bold",
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Medium",
           "type": "string"
         },
         "letterSpacing": {
@@ -915,7 +1011,7 @@
   },
   "footnote": {
     "mobile": {
-      "medium": {
+      "regular": {
         "category": "font",
         "fontSize": {
           "value": 14,
@@ -930,8 +1026,20 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 400,
+          "type": "number"
+        },
         "fontStyle": {
-          "value": "Bold",
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Regular",
           "type": "string"
         },
         "letterSpacing": {
@@ -959,7 +1067,7 @@
           "type": "string"
         }
       },
-      "regular": {
+      "medium": {
         "category": "font",
         "fontSize": {
           "value": 14,
@@ -974,8 +1082,20 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 500,
+          "type": "number"
+        },
         "fontStyle": {
-          "value": "Bold",
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
+          "value": "Medium",
           "type": "string"
         },
         "letterSpacing": {
@@ -1020,7 +1140,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -1064,7 +1196,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -1112,7 +1256,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -1156,7 +1312,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -1202,7 +1370,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -1246,7 +1426,19 @@
           "value": "Rubik",
           "type": "string"
         },
+        "fontWeight": {
+          "value": 700,
+          "type": "number"
+        },
         "fontStyle": {
+          "value": "normal",
+          "type": "string"
+        },
+        "fontStretch": {
+          "value": "normal",
+          "type": "string"
+        },
+        "_fontStyleOld": {
           "value": "Bold",
           "type": "string"
         },
@@ -1293,7 +1485,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1337,7 +1541,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1381,7 +1597,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1427,7 +1655,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1471,7 +1711,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1515,7 +1767,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1561,7 +1825,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1605,7 +1881,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1649,7 +1937,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1695,7 +1995,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1739,7 +2051,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1783,7 +2107,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1829,7 +2165,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1873,7 +2221,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
@@ -1917,7 +2277,19 @@
         "value": "Rubik",
         "type": "string"
       },
+      "fontWeight": {
+        "value": 700,
+        "type": "number"
+      },
       "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
         "value": "Bold",
         "type": "string"
       },
