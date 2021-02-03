@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 03 Feb 2021 21:43:28 GMT
+// Generated on Wed, 03 Feb 2021 22:03:16 GMT
 //
 
 import UIKit
@@ -52,7 +52,7 @@ public enum StyleDictionaryColor {
     public static let 05 = rgba(153, 162, 172, 1)
     public static let 06 = rgba(114, 121, 129, 1)
     public static let 07 = rgba(0, 0, 0, 1)
-    public static let 01 = rgba(119, 136, 85, 1)
+    public static let 01 = rgba(255, 0, 255, 1)
     public static let 02 = rgba(0, 100, 250, 1)
     public static let 03 = rgba(14, 97, 222, 1)
     public static let transparent10 = rgba(0, 100, 250, 0.1)
