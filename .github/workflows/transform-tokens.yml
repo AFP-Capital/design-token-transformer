@@ -46,8 +46,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # this parameter is optional and defaults to master but I am using main
           BRANCH_NAME: 'main'
-  
-  deploy:
+
+  dispatch:
+    needs: build
     runs-on: ubuntu-latest
     
     steps:
