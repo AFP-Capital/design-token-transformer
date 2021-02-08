@@ -64,7 +64,7 @@ jobs:
         with:
           args: --acl public-read
         env:
-          FOLDER: ./tokens
+          FILE: ./tokens
           AWS_REGION: 'us-east-1'
           S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           S3_KEY: /documentation/${{ secrets.S3_KEY }}
