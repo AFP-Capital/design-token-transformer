@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 09 Feb 2021 21:25:15 GMT
+// Generated on Tue, 09 Feb 2021 21:40:20 GMT
 //
 
 
@@ -347,6 +347,18 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
+    public static let ejemploFontFamily = Roboto
+    public static let ejemploFontSize = 80
+    public static let ejemploFontStretch = normal
+    public static let ejemploFontStyle = normal
+    public static let ejemploFontStyleOld = Regular
+    public static let ejemploFontWeight = 400
+    public static let ejemploLetterSpacing = 10
+    public static let ejemploLineHeight = 120
+    public static let ejemploParagraphIndent = 0
+    public static let ejemploParagraphSpacing = 0
+    public static let ejemploTextCase = none
+    public static let ejemploTextDecoration = none
     public static let feedbackError01 = rgba(255, 63, 85, 1)
     public static let feedbackError02 = rgba(227, 28, 61, 1)
     public static let feedbackErrorTransparent10 = rgba(255, 63, 85, 0.1)
@@ -359,6 +371,18 @@ public class StyleDictionary {
     public static let feedbackWarning01 = rgba(255, 204, 2, 1)
     public static let feedbackWarning02 = rgba(250, 180, 0, 1)
     public static let feedbackWarningTransparent10 = rgba(255, 204, 2, 0.1)
+    public static let figmaTokenFontFamily = Inter
+    public static let figmaTokenFontSize = 28
+    public static let figmaTokenFontStretch = normal
+    public static let figmaTokenFontStyle = normal
+    public static let figmaTokenFontStyleOld = Bold
+    public static let figmaTokenFontWeight = 700
+    public static let figmaTokenLetterSpacing = -5
+    public static let figmaTokenLineHeight = 110
+    public static let figmaTokenParagraphIndent = 0
+    public static let figmaTokenParagraphSpacing = 32
+    public static let figmaTokenTextCase = none
+    public static let figmaTokenTextDecoration = none
     public static let footnoteMobileMediumFontFamily = Rubik
     public static let footnoteMobileMediumFontSize = 14
     public static let footnoteMobileMediumFontStretch = normal

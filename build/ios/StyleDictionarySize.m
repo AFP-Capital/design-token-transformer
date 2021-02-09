@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 09 Feb 2021 21:25:15 GMT
+// Generated on Tue, 09 Feb 2021 21:40:20 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -183,6 +183,18 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+float const EjemploFontSize = 80;
+float const EjemploFontWeight = 400;
+float const EjemploLetterSpacing = 10;
+float const EjemploLineHeight = 120;
+float const EjemploParagraphIndent = 0;
+float const EjemploParagraphSpacing = 0;
+float const FigmaTokenFontSize = 28;
+float const FigmaTokenFontWeight = 700;
+float const FigmaTokenLetterSpacing = -5;
+float const FigmaTokenLineHeight = 110;
+float const FigmaTokenParagraphIndent = 0;
+float const FigmaTokenParagraphSpacing = 32;
 float const ButtonBaseMobileFontSize = 20;
 float const ButtonBaseMobileFontWeight = 700;
 float const ButtonBaseMobileLetterSpacing = 0;

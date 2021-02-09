@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 09 Feb 2021 21:25:15 GMT
+// Generated on Tue, 09 Feb 2021 21:40:20 GMT
 //
 
 import UIKit
@@ -158,6 +158,18 @@ public enum StyleDictionarySize {
     public static let innerShadowMultiple2Radius = 3
     public static let innerShadowMultiple2Spread = 11
     public static let layerBlurRadius = 4
+    public static let fontSize = 80
+    public static let fontWeight = 400
+    public static let letterSpacing = 10
+    public static let lineHeight = 120
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 0
+    public static let fontSize = 28
+    public static let fontWeight = 700
+    public static let letterSpacing = -5
+    public static let lineHeight = 110
+    public static let paragraphIndent = 0
+    public static let paragraphSpacing = 32
     public static let mobileMediumFontSize = 14
     public static let mobileMediumFontWeight = 500
     public static let mobileMediumLetterSpacing = 0

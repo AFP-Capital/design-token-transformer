@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 09 Feb 2021 21:25:15 GMT
+// Generated on Tue, 09 Feb 2021 21:40:20 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -182,6 +182,18 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+extern float const EjemploFontSize;
+extern float const EjemploFontWeight;
+extern float const EjemploLetterSpacing;
+extern float const EjemploLineHeight;
+extern float const EjemploParagraphIndent;
+extern float const EjemploParagraphSpacing;
+extern float const FigmaTokenFontSize;
+extern float const FigmaTokenFontWeight;
+extern float const FigmaTokenLetterSpacing;
+extern float const FigmaTokenLineHeight;
+extern float const FigmaTokenParagraphIndent;
+extern float const FigmaTokenParagraphSpacing;
 extern float const ButtonBaseMobileFontSize;
 extern float const ButtonBaseMobileFontWeight;
 extern float const ButtonBaseMobileLetterSpacing;
