@@ -3,7 +3,7 @@
     "01": {
       "category": "fill",
       "comment": "Este es el color principal para todos los componentes",
-      "value": "rgba(255, 250, 133, 1)",
+      "value": "rgba(245, 133, 255, 1)",
       "type": "color"
     },
     "02": {
