@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 10 Feb 2021 18:34:36 GMT
+// Generated on Wed, 10 Feb 2021 18:40:40 GMT
 //
 
 
@@ -584,7 +584,7 @@ public class StyleDictionary {
     public static let neutral05 = rgba(153, 162, 172, 1)
     public static let neutral06 = rgba(114, 121, 129, 1)
     public static let neutral07 = rgba(0, 0, 0, 1)
-    public static let primary01 = rgba(245, 133, 255, 1)
+    public static let primary01 = rgba(255, 0, 255, 1)
     public static let primary02 = rgba(58, 72, 92, 1)
     public static let primary03 = rgba(14, 97, 222, 1)
     public static let primaryTransparent10 = rgba(0, 100, 250, 1)

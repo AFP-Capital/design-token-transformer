@@ -300,7 +300,7 @@
   "EffectLayerBlurRadius": 4,
   "EffectBackgroundBlurType": "backgroundBlur",
   "EffectBackgroundBlurRadius": 4,
-  "Primary01": "rgba(245, 133, 255, 1)",
+  "Primary01": "rgba(255, 0, 255, 1)",
   "Primary02": "rgba(58, 72, 92, 1)",
   "Primary03": "rgba(14, 97, 222, 1)",
   "PrimaryTransparent10": "rgba(0, 100, 250, 1)",
